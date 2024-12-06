@@ -20,7 +20,9 @@ $~$
 ### Git and GitHub
 - A beginner-friendly and easy-to-follow video: https://youtu.be/tRZGeaHPoaw?si=06GZKYd83iAvLx8A
 - Cheat sheet for future reference: https://education.github.com/git-cheat-sheet-education.pdf
-- Github Desktop:https://www.youtube.com/watch?v=Hu9wpHHJAPU
+- Github Desktop:
+- https://www.youtube.com/watch?v=Hu9wpHHJAPU
+- https://youtu.be/ufKRYe8ZPaw?si=cHWNFgpyeE2W2bN5
 - For pushing folders and projects generally Git commands are used but I find doing it through GitHub Desktop very convenient. So you guys can try that.
 
 
